@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-unstructured
+unstructured
+unstructured[pdf]
+pdf2image
+pytesseract
