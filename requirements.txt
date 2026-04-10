@@ -5,3 +5,4 @@ unstructured
 unstructured[pdf]
 pdf2image
 pytesseract
+langchain-text-splitters
